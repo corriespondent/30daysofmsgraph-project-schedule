@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "spfx-scheduler",
+    "libraryId": "a3575e05-aa9f-4748-ba9c-9173e208cad4",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-scheduler",
+    "solutionShortDescription": "spfx-scheduler description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
