@@ -4,7 +4,7 @@
 
 Project for 30 Days of Graph - uses /me/findMeetingTimes endpoint to find upcoming meeting slots for all attendees.
 
-(https://github.com/corriespondent/30daysofmsgraph-project-schedule/blob/master/scheduler.png?raw=true)
+![Screenshot](./scheduler.png)
 
 ## Used SharePoint Framework Version
 
