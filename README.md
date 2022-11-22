@@ -17,7 +17,7 @@ Project for 30 Days of Graph - uses /me/findMeetingTimes endpoint to find upcomi
 
 ## Prerequisites
 
-> Any special pre-requisites?
+> In your tenant, make sure that you have set up multiple users with various events in their calendars.
 
 ## Solution
 
