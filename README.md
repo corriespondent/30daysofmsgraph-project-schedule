@@ -6,7 +6,7 @@ Project for 30 Days of Graph - uses /me/findMeetingTimes endpoint to find upcomi
 
 ## Used SharePoint Framework Version
 
-![version](https://img.shields.io/badge/version-1.13-green.svg)
+![version](https://img.shields.io/badge/version-1.15-green.svg)
 
 ## Applies to
 
