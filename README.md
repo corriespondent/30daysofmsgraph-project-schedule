@@ -47,6 +47,8 @@ Project for 30 Days of Graph - uses /me/findMeetingTimes endpoint to find upcomi
   - **gulp package-solution**
 - Install the solution into your SharePoint app catalog
 - Approve API permissions
+- Now run gulp seve in the command line:
+  - **gulp serve**
 - Add the web part to a page
 
 ## Features
