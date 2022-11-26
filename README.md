@@ -1,4 +1,4 @@
-# spfx-scheduler
+# Find Meeting Times SPFx web part
 
 ## Summary
 
